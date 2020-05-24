@@ -1,0 +1,11 @@
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\bin\Debug\DAL.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\bin\Debug\DAL.pdb
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\bin\Debug\DTO.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\bin\Debug\MyLibrary.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\bin\Debug\DTO.pdb
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\bin\Debug\MyLibrary.pdb
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\obj\Debug\DAL.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\DAL\obj\Debug\DAL.pdb

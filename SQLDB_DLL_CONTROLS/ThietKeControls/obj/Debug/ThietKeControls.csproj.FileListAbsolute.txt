@@ -1,0 +1,5 @@
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\ThietKeControls\bin\Debug\ThietKeControls.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\ThietKeControls\bin\Debug\ThietKeControls.pdb
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\ThietKeControls\obj\Debug\ThietKeControls.csproj.CoreCompileInputs.cache
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\ThietKeControls\obj\Debug\ThietKeControls.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\SQLDB_DLL_CONTROLS\ThietKeControls\obj\Debug\ThietKeControls.pdb

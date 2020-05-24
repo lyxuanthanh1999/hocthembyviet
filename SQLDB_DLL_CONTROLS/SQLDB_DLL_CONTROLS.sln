@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDB_DLL_CONTROLS", "SQLDB_DLL_CONTROLS\SQLDB_DLL_CONTROLS.csproj", "{F3DD1B45-5E2F-48F7-B2AD-22852A7EB0BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThietKeControls", "ThietKeControls\ThietKeControls.csproj", "{63ED4411-268D-44E3-A079-5C4D46AACA6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThietKeUserControls", "ThietKeUserControls\ThietKeUserControls.csproj", "{BA36E389-D8D0-4DCF-8110-0CEFC5449B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{892945C2-0276-4087-868B-2BD02050073F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{64235B78-9DA5-4620-914C-7A1E8A534A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{E79DA5AE-7656-4B8D-BAE4-4C7FFDA905C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{B1269104-A2EF-430E-81C9-914B3DBC5F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DD1B45-5E2F-48F7-B2AD-22852A7EB0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DD1B45-5E2F-48F7-B2AD-22852A7EB0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DD1B45-5E2F-48F7-B2AD-22852A7EB0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DD1B45-5E2F-48F7-B2AD-22852A7EB0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63ED4411-268D-44E3-A079-5C4D46AACA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ED4411-268D-44E3-A079-5C4D46AACA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ED4411-268D-44E3-A079-5C4D46AACA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ED4411-268D-44E3-A079-5C4D46AACA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA36E389-D8D0-4DCF-8110-0CEFC5449B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA36E389-D8D0-4DCF-8110-0CEFC5449B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA36E389-D8D0-4DCF-8110-0CEFC5449B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA36E389-D8D0-4DCF-8110-0CEFC5449B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892945C2-0276-4087-868B-2BD02050073F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892945C2-0276-4087-868B-2BD02050073F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892945C2-0276-4087-868B-2BD02050073F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892945C2-0276-4087-868B-2BD02050073F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64235B78-9DA5-4620-914C-7A1E8A534A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64235B78-9DA5-4620-914C-7A1E8A534A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64235B78-9DA5-4620-914C-7A1E8A534A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64235B78-9DA5-4620-914C-7A1E8A534A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79DA5AE-7656-4B8D-BAE4-4C7FFDA905C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79DA5AE-7656-4B8D-BAE4-4C7FFDA905C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79DA5AE-7656-4B8D-BAE4-4C7FFDA905C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79DA5AE-7656-4B8D-BAE4-4C7FFDA905C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1269104-A2EF-430E-81C9-914B3DBC5F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1269104-A2EF-430E-81C9-914B3DBC5F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1269104-A2EF-430E-81C9-914B3DBC5F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1269104-A2EF-430E-81C9-914B3DBC5F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DBCA16E-978B-43D9-A179-6D7862C787F3}
+	EndGlobalSection
+EndGlobal
